@@ -1,3 +1,3 @@
 # FlexboxSample
 
-Intro to Flexbox
+Flexbox Practice
